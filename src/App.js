@@ -7,16 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Welcome To Ashok IT...!!
+          Test Case-2: Dockerizing React JS application
         </p>
-        <a
-          className="App-link"
-          href="https://ashokitech.com/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-         Visit Our Website
-        </a>
       </header>
     </div>
   );
